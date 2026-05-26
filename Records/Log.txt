@@ -1,0 +1,5 @@
+==================================================
+         AUTOMATED ROUTE PLANNER SYSTEM LOG       
+==================================================
+Shuttle: Shuttle_B | Destination: P2 | Passenger: Alex | Time: 1100
+Shuttle: Shuttle_A | Destination: P1 | Passenger: Davie_Teo | Time: 0900
