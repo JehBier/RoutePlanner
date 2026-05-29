@@ -21,6 +21,9 @@ public:
 
     // Setters
     void setIsMatched(bool status);
+    
+    // ADD THESE TWO SETTERS HERE:
+    void setDestination(const std::string& dest) { destination = dest; }
+    void setRequestTime(const std::string& time) { requestTime = time; }
 };
-
 #endif
